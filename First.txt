@@ -1,1 +1,3 @@
 trying to learn how to push file to git hub
+the file has been successfully push
+Next i need to learn how to create the branch
